@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\IdentityCleanArch.Core\IdentityCleanArch.Core.csproj" />
+    <ProjectReference Include="..\IdentityCleanArch.EntityFrameWork\IdentityCleanArch.EntityFrameWork.csproj" />
+    <ProjectReference Include="..\IdentityCleanArch.Services\IdentityCleanArch.Services.csproj" />
+  </ItemGroup>
+
+</Project>

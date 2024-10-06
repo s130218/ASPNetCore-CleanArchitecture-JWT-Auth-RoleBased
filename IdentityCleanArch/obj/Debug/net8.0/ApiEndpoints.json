@@ -1,0 +1,76 @@
+[
+  {
+    "ContainingType": "IdentityCleanArch.Features.Security.Auth.Controller.AuthAPIController",
+    "Method": "LoginAsync",
+    "RelativePath": "v1/auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "IdentityCleanArch.Core.Domain.Security.DbEntity.LoginModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IdentityCleanArch.Features.Security.Auth.Controller.AuthAPIController",
+    "Method": "RegisterAsync",
+    "RelativePath": "v1/auth/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "IdentityCleanArch.Features.Security.Auth.Dto.RegistrationRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IdentityCleanArch.Features.Security.Auth.Controller.AuthAPIController",
+    "Method": "UpdateRoleAsync",
+    "RelativePath": "v1/auth/role/assign",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "IdentityCleanArch.Features.Security.Auth.Dto.AssignNewRoleDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IdentityCleanArch.Features.Security.Auth.Controller.AuthAPIController",
+    "Method": "GetAllUsersAsync",
+    "RelativePath": "v1/auth/users",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IdentityCleanArch.Features.Security.Auth.Controller.AuthAPIController",
+    "Method": "DeleteUserAsync",
+    "RelativePath": "v1/auth/users/{userId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
