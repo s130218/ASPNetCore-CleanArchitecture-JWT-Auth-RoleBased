@@ -1,0 +1,17 @@
+C:\Project\Project\ASPNetCore-CleanArchitecture-JWT-Auth-RoleBased\IdentityCleanArch.Services\bin\Debug\net8.0\IdentityCleanArch.Services.deps.json
+C:\Project\Project\ASPNetCore-CleanArchitecture-JWT-Auth-RoleBased\IdentityCleanArch.Services\bin\Debug\net8.0\IdentityCleanArch.Services.dll
+C:\Project\Project\ASPNetCore-CleanArchitecture-JWT-Auth-RoleBased\IdentityCleanArch.Services\bin\Debug\net8.0\IdentityCleanArch.Services.pdb
+C:\Project\Project\ASPNetCore-CleanArchitecture-JWT-Auth-RoleBased\IdentityCleanArch.Services\bin\Debug\net8.0\IdentityCleanArch.Core.dll
+C:\Project\Project\ASPNetCore-CleanArchitecture-JWT-Auth-RoleBased\IdentityCleanArch.Services\bin\Debug\net8.0\IdentityCleanArch.EntityFrameWork.dll
+C:\Project\Project\ASPNetCore-CleanArchitecture-JWT-Auth-RoleBased\IdentityCleanArch.Services\bin\Debug\net8.0\IdentityCleanArch.Core.pdb
+C:\Project\Project\ASPNetCore-CleanArchitecture-JWT-Auth-RoleBased\IdentityCleanArch.Services\bin\Debug\net8.0\IdentityCleanArch.EntityFrameWork.pdb
+C:\Project\Project\ASPNetCore-CleanArchitecture-JWT-Auth-RoleBased\IdentityCleanArch.Services\obj\Debug\net8.0\IdentityCleanArch.Services.csproj.AssemblyReference.cache
+C:\Project\Project\ASPNetCore-CleanArchitecture-JWT-Auth-RoleBased\IdentityCleanArch.Services\obj\Debug\net8.0\IdentityCleanArch.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Project\ASPNetCore-CleanArchitecture-JWT-Auth-RoleBased\IdentityCleanArch.Services\obj\Debug\net8.0\IdentityCleanArch.Services.AssemblyInfoInputs.cache
+C:\Project\Project\ASPNetCore-CleanArchitecture-JWT-Auth-RoleBased\IdentityCleanArch.Services\obj\Debug\net8.0\IdentityCleanArch.Services.AssemblyInfo.cs
+C:\Project\Project\ASPNetCore-CleanArchitecture-JWT-Auth-RoleBased\IdentityCleanArch.Services\obj\Debug\net8.0\IdentityCleanArch.Services.csproj.CoreCompileInputs.cache
+C:\Project\Project\ASPNetCore-CleanArchitecture-JWT-Auth-RoleBased\IdentityCleanArch.Services\obj\Debug\net8.0\Identity.D64A3CC0.Up2Date
+C:\Project\Project\ASPNetCore-CleanArchitecture-JWT-Auth-RoleBased\IdentityCleanArch.Services\obj\Debug\net8.0\IdentityCleanArch.Services.dll
+C:\Project\Project\ASPNetCore-CleanArchitecture-JWT-Auth-RoleBased\IdentityCleanArch.Services\obj\Debug\net8.0\refint\IdentityCleanArch.Services.dll
+C:\Project\Project\ASPNetCore-CleanArchitecture-JWT-Auth-RoleBased\IdentityCleanArch.Services\obj\Debug\net8.0\IdentityCleanArch.Services.pdb
+C:\Project\Project\ASPNetCore-CleanArchitecture-JWT-Auth-RoleBased\IdentityCleanArch.Services\obj\Debug\net8.0\ref\IdentityCleanArch.Services.dll
